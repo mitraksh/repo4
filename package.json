@@ -1,0 +1,22 @@
+{
+  "name": "repo4",
+  "version": "1.0.0",
+  "description": "repo4_Show_version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mitraksh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitraksh/repo4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mitraksh/repo4/issues"
+  },
+  "homepage": "https://github.com/mitraksh/repo4#readme",
+  "dependencies": {
+    "@mitraksh/repo1": "^1.0.1"
+  }
+}
